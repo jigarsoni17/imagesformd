@@ -35,7 +35,7 @@ SSL encryption security works on asymmetric encryption,Asymmetric encryption wor
 &nbsp;
 
 ## Step 1: Create an RSA Private Key and CSR
----
+
 
 &nbsp;
 
@@ -63,7 +63,7 @@ After all these questions are answered, we will get a .csr file & private key.
 &nbsp;
 
 ## Step 2: Apply for a CSR(Certificate Signing Request)
----
+
 
 &nbsp;
 
@@ -107,7 +107,7 @@ After clicking that link you will see one option called ***EDIT METHODS***, unde
 &nbsp;
 
 ## Step 3: Validate Private key and Domain certificate with MD5
----
+
 
 You could probably just try to install your new certificate and private key, reload your webserver config, and see if it works. But that’s not very convenient if you want to validate your private key and certificate beforehand.
 
@@ -138,7 +138,7 @@ The MD5 hash from the private key and the certificate should be the exact same. 
 &nbsp;
 
 ## Step 4: Importing certificates into AWS Certificate Manager
----
+
 
 SSL/TLS certificates provided by AWS Certificate Manager (ACM), you can import certificates that you obtained outside of AWS. You might do this because you already have a certificate from a third-party certificate authority (CA), or because you have application-specific requirements that are not met by ACM issued certificates.
 
