@@ -30,7 +30,7 @@ SSL encryption security works on asymmetric encryption,Asymmetric encryption wor
 
 &nbsp;
 
-## **The life cycle of SSL certificates**
+**The life cycle of SSL certificates**
 
 &nbsp;
 
@@ -177,28 +177,3 @@ The following example shows how to import a certificate using the AWS Management
 If everything is correct, choose Import, & its done Cheers.... !! 
 
 [Click here for AWS Certificate Manager User guide... ](https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html)
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
