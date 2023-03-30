@@ -8,8 +8,7 @@ There are 2 types of encryption mechanisms used today.
  
 
 1. Symmetric - [Click for more](https://sectigostore.com/blog/what-is-asymmetric-encryption-how-does-it-work/) 
-
-
+ 
 
 > *Here the encryption and decryption are done using the same key.*
 
@@ -26,11 +25,10 @@ SSL encryption security works on asymmetric encryption,Asymmetric encryption wor
 
 > *The private key is private to the one who is wanting to send data out to the public. The public key is shared with the world. Data encrypted using private key can only be decrypted using the public key and vice versa. This is how the distribution issue is avoided in the asymmetric encryption mechanisms.*
 
----
 
 &nbsp;
 
-**The life cycle of SSL certificates**
+## **The life cycle of SSL certificates**
 
 &nbsp;
 
